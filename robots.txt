@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ghassentimoumi.github.io/sg-palette-neo/sitemap.xml
